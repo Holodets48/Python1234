@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb97838d-de6c-4027-a294-39b60f315be8" name="Default Changelist" comment="initial&#10;commit" />
+    <list default="true" id="eb97838d-de6c-4027-a294-39b60f315be8" name="Default Changelist" comment="lesson4">
+      <change afterPath="$PROJECT_DIR$/Lesson/Phone.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +46,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="Z:\Stepanov Dima\Python\Python1234" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lesson4">
+  <component name="RunManager" selected="Python.Phone">
     <configuration name="HomeWork1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python1234" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -92,8 +96,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="Phone" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python1234" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lesson" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson/Phone.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Phone" />
         <item itemvalue="Python.Lesson4" />
         <item itemvalue="Python.HomeWork1" />
       </list>
@@ -138,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704808580057</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lesson4">
+      <created>1704808668281</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704808668281</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,21 +189,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson4" />
     <MESSAGE value="initial&#10;commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial&#10;commit" />
+    <MESSAGE value="lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="669" y="115" key="#HomeWork1" timestamp="1703166643770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="115" key="#HomeWork1/0.0.1920.1040@0.0.1920.1040" timestamp="1703166643770" />
-    <state x="1149" y="119" key="#Lesson4" timestamp="1703169757548">
+    <state x="1149" y="119" key="#Lesson4" timestamp="1704810358309">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1149" y="119" key="#Lesson4/0.0.1920.1040@0.0.1920.1040" timestamp="1703169757548" />
+    <state x="1149" y="119" key="#Lesson4/0.0.1920.1040@0.0.1920.1040" timestamp="1704810358309" />
+    <state x="669" y="115" key="#Phone" timestamp="1704810377119">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="115" key="#Phone/0.0.1920.1040@0.0.1920.1040" timestamp="1704810377119" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1703166558416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1703166558416" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1704809384999">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1704809384999" />
     <state x="846" y="434" key="VCS.EditChangelistDialog" timestamp="1704807884558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -179,9 +221,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1703170435977" />
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1704808601793">
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1704808613202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1704808601793" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1704808613202" />
   </component>
 </project>

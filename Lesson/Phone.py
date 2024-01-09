@@ -3,29 +3,11 @@ class mobile_phone:
         self.brand = brand
         self.model = model
         self.display = display
+    def CD(self, connect_link):
+        self.cd = connect_link
 
-class samsung(mobile_phone):
-    def __init__(self):
-        self.brand = samsung
-        self.model = Galaxy_A34
-        self.display = 6.6
+p1 = mobile_phone(6.2,"Samsung","S23")
 
-class apple(mobile_phone):
-    def __init__(self):
-        self.brand = apple
-        self.model = Aphone_11
-        self.display = 6.1
+p2 = mobile_phone(5.5,"Apple","11")
 
-class xiomi(mobile_phone):
-    def __init__(self):
-        self.brand = xiomi
-        self.model = Xiomi_9
-        self.display = 6.5
-
-class huawei(mobile_phone):
-    def __init__(self):
-        self.brand = huawei
-        self.model = Huawei_P30_Lite
-        self.display = 6.1
-
-print(xiomi.display)
+print(p1.cd.display)

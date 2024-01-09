@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="eb97838d-de6c-4027-a294-39b60f315be8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Lesson/Lesson4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,6 +112,14 @@
       <option name="presentableId" value="Default" />
       <updated>1703166496011</updated>
     </task>
+    <task id="LOCAL-00001" summary="Lesson4">
+      <created>1703170434000</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703170434000</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -125,18 +133,26 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson4" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="669" y="115" key="#HomeWork1" timestamp="1703166643770">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="669" y="115" key="#HomeWork1/0.0.1920.1040@0.0.1920.1040" timestamp="1703166643770" />
-    <state x="1149" y="119" key="#Lesson4" timestamp="1703168305438">
+    <state x="1149" y="119" key="#Lesson4" timestamp="1703169757548">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1149" y="119" key="#Lesson4/0.0.1920.1040@0.0.1920.1040" timestamp="1703168305438" />
+    <state x="1149" y="119" key="#Lesson4/0.0.1920.1040@0.0.1920.1040" timestamp="1703169757548" />
     <state x="739" y="275" key="FileChooserDialogImpl" timestamp="1703166558416">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="739" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1703166558416" />
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2" timestamp="1703170435977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="240" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1703170435977" />
   </component>
 </project>

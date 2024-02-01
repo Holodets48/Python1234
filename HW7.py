@@ -1,13 +1,13 @@
-def calculator(func):
-    def idk(expression):
+def calculator(Funnition):
+    def XYZ(expression):
         try:
-            result = func(expression)
+            result = Funnition(expression)
             return result
         except Exception:
             print(f"Но Но Но на нуль ділити неможна")
             return None
 
-    return idk
+    return XYZ
 
 @calculator
 def calculate(expression):
@@ -16,5 +16,5 @@ def calculate(expression):
     return eval(expression)
 
 
-result = calculate("a / b")
+result = calculate("a/b")
 print(f"Осьо така відповідь: {result}")

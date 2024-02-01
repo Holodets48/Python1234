@@ -15,6 +15,5 @@ def calculate(expression):
     b = int(input("число 2"))
     return eval(expression)
 
-
 result = calculate("a/b")
 print(f"Осьо така відповідь: {result}")
